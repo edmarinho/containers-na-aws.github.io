@@ -1,9 +1,3 @@
----
-title: Online Hosted Instructions
-permalink: index.html
-layout: home
----
-
 # Content Directory
 
 Required labs files can be [DOWNLOADED HERE](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/archive/master.zip)
