@@ -1,19 +1,5 @@
-remote_theme: MicrosoftLearning/Jekyll-Theme
-exclude:
-  - readme.md
-  - .github/
-header_pages:
-  - index.html
-author: Microsoft Learning
-twitter_username: mslearning
-github_username:  MicrosoftLearning
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jemoji
-markdown: kramdown
-kramdown:
-   syntax_highlighter_opts:
-      disable : true
-
-theme: jekyll-theme-slate
+- jekyll-remote-theme
+title: [Containers na AWS - Labs]
+description: [Laboratórios do curso Containers na AWS]
