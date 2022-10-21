@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: [Containers na AWS - Labs]
-description: [Laboratórios do curso Containers na AWS]
+title: [Containers na AWS]
+description: [Laboratórios do curso Containers na AWS - Instrutor: [Ed Carlos Marinho](https://www.linkedin.com/in/edcarlosmarinho/)]
