@@ -1,7 +1,7 @@
 ---
 lab:
-    title: '01 - Manage Azure Active Directory Identities'
-    module: 'Administer Identity'
+    title: '01 - Criar ECR Público e Privado'
+    module: 'Amazon Elastic Container Registry (Amazon ECR)'
 ---
 
 # Lab 01 - Manage Azure Active Directory Identities
